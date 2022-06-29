@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'byebug'
 require 'httparty'
 require 'json'
 require 'kobana_pix/configuration'
